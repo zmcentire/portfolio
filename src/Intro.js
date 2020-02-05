@@ -24,10 +24,11 @@ const Intro = () => {
                     <Collapse isOpen={isOpen}>
                         <Card>
                             <CardBody>                                
-                                Anim pariatur cliche reprehenderit,
-                                enim eiusmod high life accusamus terry richardson ad squid. Nihil
-                                anim keffiyeh helvetica, craft beer labore wes anderson cred
-                                nesciunt sapiente ea proident.
+                            Recent coding boot camp graduate with experience in full-stack web development (JavaScript, React, HTML, CSS, Node, etc.).
+
+                            5+ years in Radio Productions/Promotions with experience in Adobe Creative Cloud, WordPress, and Microsoft Suite.
+
+                            Seeking new opportunities in tech to further improve my new skillset in front end and back end programming.
                             </CardBody>
                         </Card>
                     </Collapse>
