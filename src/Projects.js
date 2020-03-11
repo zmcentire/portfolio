@@ -23,7 +23,7 @@ const Projects = () => {
                 </Media>
                 <Media body>
                     <Media heading>
-                        Forum-Land
+                        Stoic Bio Timeline
                     </Media>
                     React Timeline app featuring simple bios of prolific Stoic Philosophers
             </Media>
