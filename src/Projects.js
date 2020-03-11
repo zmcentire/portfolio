@@ -18,15 +18,14 @@ const Projects = () => {
                 </Media>
             </Media>
             <Media className="mt-1">
-                <Media left middle href="https://forum-land.herokuapp.com/">
-                    <Media height="200px" src={require("./images/Forum-Land-screenshot.png")} alt="Forum Land" />
+                <Media left middle href="https://stoic-bio.herokuapp.com/">
+                    <Media height="200px" src={require("./images/Stoic-Bio-Screenshot.png")} alt="Stoic Bios" />
                 </Media>
                 <Media body>
                     <Media heading>
                         Forum-Land
                     </Media>
-                    Full-stack Reddit clone web application. Series of forum posts on multiple topics with comments and the ability to create new posts and topics included.
-                    Front End built using React, Back End built using Node, Express, MongoDB & Mongoose.
+                    React Timeline app featuring simple bios of prolific Stoic Philosophers
             </Media>
             </Media>
         </div>
