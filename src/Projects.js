@@ -26,7 +26,18 @@ const Projects = () => {
                         Stoic Bio Timeline
                     </Media>
                     React Timeline app featuring simple bios of prolific Stoic Philosophers
+                </Media>
             </Media>
+            <Media>
+                <Media left bottom href= "https://react-dj-board.herokuapp.com/">
+                    <Media height="200px" src={require("./images/Dj-React-Screenshot.png")} alt="React DJ Board"/>
+                </Media>
+                <Media body>
+                    <Media heading>
+                        React DJ Board
+                    </Media>
+                    A DJ board React App with interactive buttons that change the display and color of the board
+                </Media>
             </Media>
         </div>
     )
