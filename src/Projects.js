@@ -17,6 +17,7 @@ const Projects = () => {
                     Random quote generator built in React using Rest APIs the randomly generate quotes from Stoicism.
                 </Media>
             </Media>
+            <br/>
             <Media className="mt-1">
                 <Media left middle href="https://stoic-bio.herokuapp.com/">
                     <Media height="200px" src={require("./images/Stoic-Bio-Screenshot.png")} alt="Stoic Bios" />
@@ -28,6 +29,7 @@ const Projects = () => {
                     React Timeline app featuring simple bios of prolific Stoic Philosophers
                 </Media>
             </Media>
+            <br/>
             <Media>
                 <Media left bottom href= "https://react-dj-board.herokuapp.com/">
                     <Media height="200px" src={require("./images/Dj-React-Screenshot.png")} alt="React DJ Board"/>
