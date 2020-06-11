@@ -55,6 +55,11 @@
 .projects {
     display: grid;
     grid-template-rows: 1fr;
+    background-color: whitesmoke;
+}
+
+.projects a {
+    padding-right: 5px;
 }
 
 .skills {

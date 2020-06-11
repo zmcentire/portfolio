@@ -8,6 +8,9 @@ const NavBar = () => {
                 <NavbarBrand href="/">Zach McEntire</NavbarBrand>
                 <Nav className="ml-auto" navbar>
                     <NavItem>
+                        <NavLink href="https://drive.google.com/file/d/1o6YLTJYDMKCfSPTZ4n80DPPWaRRJbY2i/view">Resume</NavLink>
+                    </NavItem>
+                    <NavItem>
                         <NavLink href="https://github.com/zmcentire">Github</NavLink>
                     </NavItem>
                     <NavItem>
